@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Group Members
+title: Research
 subtitle:
 
 mode: immersive
@@ -15,21 +15,3 @@ article_header:
     src: /assets/images/engineering.jpg
 ---
 
-# Current Members
-
-## Group Leader:
-Dr Somenath Bakshi
-
-## Post-docs
-
-## PhD students
-
-Georgeos Hardo
-
-Camillo Moschner
-
-Charlie Wedd
-
-## Master's students
-
-# Alumni

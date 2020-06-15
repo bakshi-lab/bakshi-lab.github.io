@@ -15,6 +15,6 @@ header:
     url: /members.html
   - titles:
       # @start locale config
-      en      : &EN       Members
+      en      : &EN       Research
       # @end locale config
-    url: /members.html
+    url: /research.html
