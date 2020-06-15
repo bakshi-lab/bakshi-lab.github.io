@@ -18,3 +18,8 @@ header:
       en      : &EN       Research
       # @end locale config
     url: /research.html
+  - titles:
+      # @start locale config
+      en      : &EN       Publications
+      # @end locale config
+    url: /publications.html

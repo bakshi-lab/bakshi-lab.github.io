@@ -15,3 +15,11 @@ article_header:
     src: /assets/images/engineering.jpg
 ---
 
+<div class="grid-container">
+  <div class="grid grid--p-3">
+    <div class="cell cell--6"><div>Cell 1</div></div>
+    <div class="cell cell--6"><div>Cell 2</div></div>
+    <div class="cell cell--6"><div>## Hello</div></div>
+    <div class="cell cell--6"><div>6 cells</div></div>
+  </div>
+</div>

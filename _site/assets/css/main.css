@@ -1796,9 +1796,9 @@ a > .item__header.disabled, a > .item__header:disabled, a.item__header.disabled,
 
 .article__header .edit-on-github { text-decoration: none !important; }
 
-.article__header--overlay .overlay { min-height: 36rem; padding-top: 6rem; padding-bottom: 6rem; }
+.article__header--overlay .overlay { min-height: 20rem; padding-top: 0.5rem; padding-bottom: 0.5rem; }
 
-@media (max-width: 499px) { .article__header--overlay .overlay { min-height: 29rem; padding-top: 3rem; padding-bottom: 3rem; } }
+@media (max-width: 499px) { .article__header--overlay .overlay { min-height: 20rem; padding-top: 0.5rem; padding-bottom: 0.5rem; } }
 
 .article__header--overlay .overlay__excerpt { font-size: 2rem; font-weight: 700; }
 
