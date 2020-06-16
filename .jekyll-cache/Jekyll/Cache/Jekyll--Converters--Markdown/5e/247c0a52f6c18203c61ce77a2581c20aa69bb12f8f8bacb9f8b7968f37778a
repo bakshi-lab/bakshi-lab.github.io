@@ -1,23 +1,7 @@
----
-layout: article
-title: Group Members
-subtitle:
-
-mode: immersive
-header:
-  theme: dark
-article_header:
-  type: overlay
-  theme: dark
-  background_color: '#203028'
-  background_image:
-    gradient: 'linear-gradient(135deg, rgba(0, 100, 87 , .7), rgba(139, 34, 139, .7))'
-    src: /assets/images/engineering.jpg
----
-<br>
+I"f<p><br /></p>
 <head>
   <title>jVectorMap demo</title>
-  <link rel="stylesheet" href="/assets/javascript/jvectormap/jquery-jvectormap-2.0.5.css" type="text/css" media="screen"/>
+  <link rel="stylesheet" href="/assets/javascript/jvectormap/jquery-jvectormap-2.0.5.css" type="text/css" media="screen" />
 <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
   <script src="/assets/javascript/jvectormap/jquery-jvectormap-2.0.5.min.js"></script>
   <script src="/assets/javascript/jvectormap/jquery-jvectormap-world-mill.js"></script>
@@ -50,20 +34,19 @@ article_header:
       {latLng: [42.335825, -71.104136], name: 'The Paulsson Lab @ Harvard Medical School'},
       {latLng: [51.181554, 10.112960], name: 'Max Noka'},
       {latLng: [34.713709, 103.696228], name: 'Rui Li'},
-      {latLng: [-37.798345, 144.959815], name: 'Ghosal Group @ University of Melbourne'},
     ]
   });
 });
   </script>
 </body>
 
-# Current Members
+<h1 id="current-members">Current Members</h1>
 
-## Group Leader:
+<h2 id="group-leader">Group Leader:</h2>
 
 <div class="item">
   <div class="item__image">
-    <img class="image" src="/assets/images/group_members/somenath.png"/>
+    <img class="image" src="/assets/images/group_members/somenath.png" />
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -76,11 +59,11 @@ article_header:
   </div>
 </div>
 
-## Group Members
+<h2 id="group-members">Group Members</h2>
 
 <div class="item">
   <div class="item__image">
-    <img class="image" src="/assets/images/group_members/georgeos.jpeg"/>
+    <img class="image" src="/assets/images/group_members/georgeos.jpeg" />
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -92,10 +75,10 @@ article_header:
     </div>
   </div>
 </div>
-<br>
+<p><br /></p>
 <div class="item">
   <div class="item__image">
-    <img class="image" src="/assets/images/group_members/camillo.jpeg"/>
+    <img class="image" src="/assets/images/group_members/camillo.jpeg" />
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -107,10 +90,10 @@ article_header:
     </div>
   </div>
 </div>
-<br>
+<p><br /></p>
 <div class="item">
   <div class="item__image">
-    <img class="image" src="/assets/images/group_members/charlie.jpeg"/>
+    <img class="image" src="/assets/images/group_members/charlie.jpeg" />
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -123,13 +106,13 @@ article_header:
   </div>
 </div>
 
-## Master's students
+<h2 id="masters-students">Master’s students</h2>
 
-# Alumni
+<h1 id="alumni">Alumni</h1>
 
 <div class="item">
   <div class="item__image">
-    <img class="image" src=""/>
+    <img class="image" src="" />
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -141,10 +124,10 @@ article_header:
     </div>
   </div>
 </div>
-<br>
+<p><br /></p>
 <div class="item">
   <div class="item__image">
-    <img class="image" src=""/>
+    <img class="image" src="" />
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -156,10 +139,10 @@ article_header:
     </div>
   </div>
 </div>
-<br>
+<p><br /></p>
 <div class="item">
   <div class="item__image">
-    <img class="image" src=""/>
+    <img class="image" src="" />
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -171,4 +154,5 @@ article_header:
     </div>
   </div>
 </div>
-<br>
+<p><br /></p>
+:ET

@@ -3,7 +3,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"><title>Group Members - Bakshi Lab</title>
 
-<meta name="description" content="Current MembersGroup Leader:                    Dr Somenath Bakshi              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo...">
+<meta name="description" content="jVectorMap demo          Current MembersGroup Leader:                    Dr Somenath Bakshi              Lorem ipsum dolor sit amet, consectetur adipiscing e...">
 <link rel="canonical" href="http://localhost:4000/members.html"><link rel="alternate" type="application/rss+xml" title="Bakshi Lab" href="/feed.xml"><!-- start favicons snippet, use https://realfavicongenerator.net/ --><link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png"><link rel="manifest" href="/assets/site.webmanifest"><link rel="mask-icon" href="/assets/safari-pinned-tab.svg" color="#fc4d50"><link rel="shortcut icon" href="/assets/favicon.ico">
 
 <meta name="msapplication-TileColor" content="#ffc40d"><meta name="msapplication-config" content="/assets/browserconfig.xml">
@@ -271,7 +271,7 @@
         <ul><li class="navigation__item"><a href="/archive.html">Archive</a></li><li class="navigation__item"><a href="/about.html">About</a></li><li class="navigation__item navigation__item--active"><a href="/members.html">Members</a></li><li class="navigation__item"><a href="/research.html">Research</a></li><li class="navigation__item"><a href="/publications.html">Publications</a></li><li><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></li></ul>
       </nav></div>
   </header>
-</div><div class="page__content"><div class="article__header--overlay"><div class="hero hero--dark overlay" style="background-image:linear-gradient(135deg, rgba(0, 100, 87 , .7), rgba(139, 34, 139, .7)),url(/assets/images/engineering.jpg);background-color:#203028;"><div class="hero__content"><div class ="main"><div class="article__header"><header><h1>Group Members</h1></header></div><p class="overlay__excerpt">Current MembersGroup Leader:                    Dr Somenath Bakshi              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna a...</p></div></div>
+</div><div class="page__content"><div class="article__header--overlay"><div class="hero hero--dark overlay" style="background-image:linear-gradient(135deg, rgba(0, 100, 87 , .7), rgba(139, 34, 139, .7)),url(/assets/images/engineering.jpg);background-color:#203028;"><div class="hero__content"><div class ="main"><div class="article__header"><header><h1>Group Members</h1></header></div><p class="overlay__excerpt">jVectorMap demo          Current MembersGroup Leader:                    Dr Somenath Bakshi              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut...</p></div></div>
               </div>
             </div><div class ="main"><div class="grid grid--reverse">
 
@@ -283,7 +283,50 @@
 <article itemscope itemtype="http://schema.org/Article"><meta itemprop="headline" content="Group Members"><meta itemprop="author" content="Bakshi Lab"/><div class="js-article-content"><div class="layout--article"><!-- start custom article top snippet -->
 
 <!-- end custom article top snippet -->
-<div class="article__content" itemprop="articleBody"><h1 id="current-members">Current Members</h1>
+<div class="article__content" itemprop="articleBody"><p><br /></p>
+<head>
+  <title>jVectorMap demo</title>
+  <link rel="stylesheet" href="/assets/javascript/jvectormap/jquery-jvectormap-2.0.5.css" type="text/css" media="screen" />
+<script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+  <script src="/assets/javascript/jvectormap/jquery-jvectormap-2.0.5.min.js"></script>
+  <script src="/assets/javascript/jvectormap/jquery-jvectormap-world-mill.js"></script>
+</head>
+<body>
+  <div id="world-map" style="width: 900px; height: 400px"></div>
+
+  <script>
+    $(function(){
+  $('#world-map').vectorMap({
+    map: 'world_mill',
+    scaleColors: ['#C8EEFF', '#0071A4'],
+    normalizeFunction: 'polynomial',
+    hoverOpacity: 0.7,
+    hoverColor: false,
+    markerStyle: {
+      initial: {
+        fill: '#ff0000',
+        stroke: '#383f47'
+      }
+    },
+    backgroundColor: '#383f47',
+    markers: [
+      {latLng: [51.2694, 0.2891], name: 'Georgeos Hardo'},
+      {latLng: [54.742, -1.2350], name: 'Charlie Wedd'},
+      {latLng: [47.65, 14.133], name: 'Camillo Moschner'},
+      {latLng: [22.801386, 79.360901], name: 'Somenath Bakshi'},
+      {latLng: [52.209301, 0.122165], name: 'Somenath Bakshi'},
+      {latLng: [43.076403, -89.412616], name: 'The Wang Lab @ UW-Madison'},
+      {latLng: [42.335825, -71.104136], name: 'The Paulsson Lab @ Harvard Medical School'},
+      {latLng: [51.181554, 10.112960], name: 'Max Noka'},
+      {latLng: [34.713709, 103.696228], name: 'Rui Li'},
+      {latLng: [-37.798345, 144.959815], name: 'Ghosal Group @ University of Melbourne'},
+    ]
+  });
+});
+  </script>
+</body>
+
+<h1 id="current-members">Current Members</h1>
 
 <h2 id="group-leader">Group Leader:</h2>
 
@@ -352,6 +395,52 @@
 <h2 id="masters-students">Master’s students</h2>
 
 <h1 id="alumni">Alumni</h1>
+
+<div class="item">
+  <div class="item__image">
+    <img class="image" src="" />
+  </div>
+  <div class="item__content">
+    <div class="item__header">
+      <h4>Soham Garg</h4>
+    </div>
+    <div class="item__description">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</p>
+    </div>
+  </div>
+</div>
+<p><br /></p>
+<div class="item">
+  <div class="item__image">
+    <img class="image" src="" />
+  </div>
+  <div class="item__content">
+    <div class="item__header">
+      <h4>Max Noka</h4>
+    </div>
+    <div class="item__description">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</p>
+    </div>
+  </div>
+</div>
+<p><br /></p>
+<div class="item">
+  <div class="item__image">
+    <img class="image" src="" />
+  </div>
+  <div class="item__content">
+    <div class="item__header">
+      <h4>Jorge García Condado</h4>
+    </div>
+    <div class="item__description">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</p>
+    </div>
+  </div>
+</div>
+<p><br /></p>
 </div><div class="d-print-none"><footer class="article__footer"><!-- start custom article footer snippet -->
 
 <!-- end custom article footer snippet -->
