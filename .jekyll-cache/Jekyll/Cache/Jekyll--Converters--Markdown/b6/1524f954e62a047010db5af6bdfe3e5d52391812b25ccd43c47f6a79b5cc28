@@ -1,0 +1,121 @@
+I"YZ<h2 id="the-central-dogma-of-molecular-biology">The Central Dogma of Molecular Biology</h2>
+
+<p>DNA is transcribed into RNA, and this RNA is subsequently modified and translated into proteins. This represents the flow of information from genome to protein. However some say that the central dogma is incomplete as information must flow from protein to genome in order to regulate the amount of translation and transcription that occurs. We also know that RNA can be converted to DNA through reverse transcription.</p>
+
+<h2 id="transcription-overview">Transcription overview</h2>
+
+<p>A DNA template strand containing a gene is uncoiled and melted at the start of this gene. An enzyme called RNA polymerase then binds at the promoter region and begins synthesising complementary RNA, stopping at the end of the gene. Once finished the RNA polymerase unbinds and the DNA supercoils.</p>
+
+<p>There are different types of genes: Housekeeping genes are those genes which code for continuously synthesised proteins. Inducable genes (as the name suggests) are genes that can be induced (turned on and off) depending on the circumstances in which an organism finds itself (such as the lac operon). A gene that codes for a protein will first be transcribed into mRNA before it can be used to produce a protein. Other genes called cistrons are coding regions which can code for non-translated RNA. These RNAs, such as tRNA, rRNA and snRNA are non-translated and will be coded for by cistrons (also called structural genes).</p>
+
+<p>The open reading fram (ORF) is the stretch of DNA or RNA that encodes for a protein (excluding stop codons). It is the pure sequence that codes for the polypeptide chain that folds to form the protein. It is essentially the part that is translated. In eukaryotes the ORF will include both introns and exons.</p>
+
+<p>All genes have a promoter region befor the coding sequence which is recognised by RNA polymerase as the point to start transcription. In bacteria the promoters are found in the -10 and -35 regions (10 and 35 base pairs upstream of the transcription start site). Consensus sequences at the promoter are TATAA and TTGACA and these are found on continuously transcribed genes (housekeeping genes). If it is an inducible gene then the transcription factors and activator proteins will need to bind to the promoter region before transcription can begin (RNA polymerase recognises these factors).</p>
+
+<p>The transcription start site is the point on the gene where complementary base pairs begin to be added by RNA polymerase. The area immediately after the promoter is called the 5’ untranslated region (5’UTR) which as the name suggests is not translated into protein but is used to control ribosome binding on the mRNA. The part after the 5’UTR is is the open reading frame, and after that is the 3’UTR which contains information to regulate the rate of translation. After the 3’UTR is the stop sequence which terminates transcription.</p>
+
+<p>Bacterial RNA polymerase has several subunits: the sigma subunit recognisesthe -10 and -35 regions and the core enzyme is the part which catalyses the production of RNA. Recall that RNA polymerase will only synthesise RNA in the 5’ to 3’ direction. The core is made of 5 subunits.</p>
+
+<h2 id="transcription-in-prokaryotes">Transcription in prokaryotes</h2>
+
+<p>In bacteria, once the sigma subunit finds the -10 and -35 regions, a transcription bubble is formed around the complex. This is the area where the two DNA strands are pulled apart, and within this bubble the template (antisense) strand is used to form the complementary RNA molecule. A typical start sequence is CAT, with the rate of transcription being about 40 bases per second (compared to replication which happens at 1000 base pairs per second).</p>
+
+<p>RNA polymerase leaves DNA partially unwound after it has passed though it, this is fixed by DNA gyrase and topoisomerase which return DNA to its original form.</p>
+
+<p>In bacteria, the stop signal is a region with two inverted repeats with 6 bases in between, this is called the Rho-independent terminator. Following this is a long stretch of As. Inverted repeats form a hairpin structure (which we call a secondary structure) and this stops RNA polymerase in its tracks, as the As are transcribed into Us, these two parts of the sequence are held together weakly due to AU having only two hydrogen bonds. This causes RNA polymerase to fall off while it transcribes this sequence of As.</p>
+
+<p>There are also Rho-dependent terminators which also have inverted repeats but no As. Instead a rho protein separates the DNA/RNA helix to release the RNA at the end of transcription. The rho protein binds to a recognition site on the mRNA strand and while the RNA polymerase is paused at the hairpin the rho protein catches up and releases the RNA.</p>
+
+<p>In prokaryotes genes are aranged into operons which are gene clusters which together all code for the proteins of a single metabolic pathway. In Eukaryotes we do not have all the genes for one pathway next to one another - this allows for finer control of that pathway as in prokaryotes the operon will cause all genes to be expressed in roughly the same proportion. When an operon is trancribed it will form polycistronic mRNA meanng the mRNA cods for multiple proteins (it contains multiple cistrons each coding for one protein). These are translated individually. In Eukaryotes our mRNA has one cistron and we call it monocistronic mRNA. If one tries to express polycistronic mRNA in eukaryotes, eukaryotic robosomes will only translate the first cistron.</p>
+
+<h2 id="transcription-in-eukaryotes">Transcription in eukaryotes</h2>
+
+<p>Eukaryotes have three RNA polymerases:
+RNA polymerase I transcribes rRNA genes. They are transcribed as one continuous mRNA which is then cleaved into separate transcripts: the 18s and 28s rRNAs. These are not translated into protein as they are structural RNAs for use in ribosomes.
+RNA polymerase II transcribes genes which code for proteisn.
+RNA polymerase III transcribes tRNA, 5s rRNA and other small RNA genes.</p>
+
+<p>RNA polymerase II is positioned by many proteins at the transcription start site. For any promoter RNA polymerase II requires general transcription factors, but for some genes specific transcription factors are require. The TATA box protein recognises the TATA box and helps the binding of the promoter wihich then initiates the binding of RNA polymerase II. Upstream control elements which are upstream of the TATA box are necessary, as RNA polymerase II in eukaryotes is very inneficient at starting transcription without this region.</p>
+
+<h2 id="transcription-regulation-prokaryotes">Transcription regulation (prokaryotes)</h2>
+
+<p>Activator and repressor proteins control gene expression by binding to DNA in promoter regions and either block RNA polymerase or promote its binding. Activator proteins are positive regulators meaning that genes are expressed when a positive signal is detected, whereas repressor use negative regulation meaning the genes are expressed only when the repression signal is not detected. These regulatory proteins may also block elongation or signal premature termination of transcription, there are also antiterminator proteins which cause RNA polymerase to ignore the terminator region and continue synthesising genes downstream of the termination region.</p>
+
+<p>Bacterial RNA polymerase may contain different sigma subunits which recognise promoter regions. These sigma factors can be regulated by certain parameters such as temperature. For example in <em>E. coli</em> when the temperature increases to 43 degrees celcius a sigma factor called RpoH activates and transcribes genes for chaperonin proteins which help proteins to fold correctly at these temepratures by providing favourable conditions. It also activates proteases to break down misfolded proteins. At low temperatures RpoH is actually broken down by certain chaperonin and proteases, regulating the production of RpoH at low temperatures. As the temperature rises, these proteases break down and RpoH can be expressed again.</p>
+
+<h2 id="lac-operon">Lac operon</h2>
+
+<p>Regulator proteins exist in two forms: inactive and active. The regulator proteins can move between these two forms by using inducers what change the shape of the protein. The promoter region of the lac operon controlls the expression of lacZ, lacY and lacA structural genes and these are transcribed together into polycistronic mRNA. Upstream of these three proteins is LacI which is transcribed in the opposite direction. LacI represses the expression of the lac operon.</p>
+
+<p>lacZ codes for beta-galactosidase which cleaves the disaccharide bond of lactose into glucose and galactose.
+lacY codes for lactose permease which moves lactose though the cell membrane into the bacteria.
+lacA codes for lactose acetylase, we do not yet know its role.
+lacO is the promoter binding site for the repressor protein which has an overlap with the RNA polymerase binding site. This area is called the operator, so when the repressor binds then it blocks RNA polymerase and the operon is not expressed.</p>
+
+<p>Cyclic AMP receptor protein (CRP) can also bind upstream of the lacP region. CRP is a global regulator that activates transcription for many operons which code for pathways enabling organisms to utilise alternative sugars.</p>
+
+<p>The expression of the operon is controlled by the environment. If there is lots of glucose in the media, then <em>E. coli</em> will consume it and the lac operon will not be turned on. This is because when glucose is in abundance cycling AMP (cAMP) is low. WHen the glucose concentration drops, the concentration of cAMP increases and cAMP binds to CRP which is the global regulator. cAMP and CRP form a dimer which can bond to the CRP site on the DNA (in this context the CRP site is on the lac operon but may be on many other operons). Once bound to the DNA the cAMP/CRP dimer is still not enough to initiate transcription of the lac operon. The cell also needs to sense lactose. If there is lactose then beta-galactosidase converts a small amount of lacrose into allo-lactose and this binds to the lacI repressor protein which sits at the lacO site blocking the binding of RNA polymerase. When allo-lactose binds to the lacI repressor protein, the protein is released and RNA polymerase can bind to the site and because CRP is there, transcription can be initiated.</p>
+
+<p>A gratuitous inducer, IPTG can replae allo-lactose in lab conditions and because it’s not broken down by beta-galactosidase it only needs to be added once. Therefore two conditions must be met for the lac operon to be activated: cAMP must bind to CRP protein which in turn forms a dimer which binds to the CRP site, AND the lacI repressor protein must be removed from the regulatory region of the lac operon to allow transcription to be initiated.</p>
+
+<h2 id="gene-expression-control">Gene expression control</h2>
+
+<p>If a repressor or activator binds to the promoter of its own gene then we call this autogeneous regulation. Sometimes small molecules are needed, called co-repressors, in order to activate the repression system. ArgR, a repressor protein for the arginine synthesis operon will only repress the expression of the operon if arginine is present, therefore arginine is a co-repressor and means that the bacteria only produce arginine when arginine is in short supply.</p>
+
+<h3 id="eukaryotic-transcription-regulation">Eukaryotic transcription regulation</h3>
+
+<p>Transcription regulation is more complex in eukaryotes. Control is much more tight as the nuclear membrane acts as a barrier to many proteins from entering and DNA in eukaryotes is wound around histones and supercoiled which limits the access of activators and repressors to parts of the genome.</p>
+
+<p>Transcription factors in eukaryotes have two domains, one that binds to DNA and the other that binds to proteins associated with transcription. RNA polymerase II is surrounded by a mediator complex which transmits signals to the RNA polymerase II as well as carries the RNA polymerase to the promotor region. There are 26 subunits in the mediator. The mediator recieves signals from activators and repressors and passes it on to the RNA polymerase II. It also manouvers the RNA polymerase into position between the two stands of the DNA double helix. The collection of the mediator, associated proteins and the RNA polymerase 2 is called the transcription initiation complex. Eukaryotic transcription factors can bind to enhancer regions on the genome which are thousands of base pairs away, and the DNA loops round bringing the enhancer near the promoter to begin transcription.</p>
+
+<p>Opposite to enhancer are insulators which are DNA sequences that stop enhancers from activating the wrong genes. These insilator regions bind to insulator binding proteins which loops the DNA in such a way that enhancers cannot get physically close the the genes. These insulator sequences are controlled by methylation, if they are methylated then the insulator binding protein cannot bind and so the gene is activated. Therefore it can be said that methylation can enhance gene expression in this case, but not all cases.</p>
+
+<p>Activator protein-1 activates many eukaryotic gene. Stimulators of AP-1 are growth factors and UV light. The first stimulant gets AP-1 to code for cell growth proteins whereas UV light gets AP-1 to code for cell death proteins. So cell growth and cell death can be controlled by a single transcription factor. The type of dimerisation and post-translational modifications of AP-1 changes what genes are expressed.</p>
+
+<h3 id="epigenetics">Epigenetics</h3>
+
+<p>Heritable changes in DNA can be passed down in other ways than just through the sequence of DNA base pairs. These changes can be made through histome protein post-translational modification, methylation, RNA silencing and nucleosome remodeling.</p>
+
+<p>When nucleosomes are loosely packed, there is more access for transcription factors. Therefore to control expression, nucleosome density employed.
+Histones can also be used to modulate gene expression by modifying their tails (protein extensions) using HATs which add acetyle groups to the histone tails. This prevents neighbouring nucleosomes to bind to one another, loosening the genome and reducing its density. The opposite can be done using histone deacetylases, causing reaggregation.</p>
+
+<p>In prokaryotes, “old” DNA is differentiated fron newly synthesised DNA because it is methylated, however in eukaryotes methylation can “turn off” certain setions of DNA stopping them from being expressed. Cytosine is methylated using two enzymes. Maintenance methylases copy the methylation pattern as the template strand so that newly synthesised DNA has the same level of methylation as old DNA. <em>De novo</em> methylases add new methylation to DNA and these can be removed using demthylases. Single genes or entire chromosomes can be methylated. Methylated DNA attracts methylcytosine binding proteins that stop other DNA binding proteins from attaching and initiationg gene expression, therefore these areas become heterochromatin because they are not expressed.</p>
+
+<p>Nucleosome remodelling changes the spacing of nucleosomes around genes to expose genes and their promoter regions so that they can be transcribed. Histones can also be replaced with other variants which act as a marker for the region to be transcribed.</p>
+
+<p>Imprinting is when a gene from the parent is methylated and their gametes remain methylated, leading to the children having the same methylated gene. This can change development as genes need to be switched on and off in order to control how an organism grows.</p>
+
+<p>X-inactivation is where an entire second X chromosome is deactivated in females. The only loci which is active on this deactivated chromosome is the Xist gene which codes for Xist mRNA which is what deactivates the gene itself. This means that males and females have equal X chromosome expression as they both have one X chromosome active at any time.</p>
+
+<h3 id="mrna-processing-in-eukaryotes">mRNA processing in eukaryotes</h3>
+
+<p>Bacteria often start translating their mRNA before it is even finished being transcribed, but in eukaryotes mRNA needs to be processed before it can be translated to protein.</p>
+
+<p>A modified guanine cap is added at the end of the 5’ end of the mRNA, added in the reverse orientation and methylated on position 7. A poly(A) tail is also added at the 3’ end, 100-200 As long. A poly(A) binding protein then binds to the cap and tail which makes the mRNA circular. The final modification is the removal of introns so that the entire mRNA becomes coding mRNA. The primary transcript has introns removed using splicing factors that can determine intron/exon borders, cut out the intron and rejoin the DNA. Poly(A) addition and splicing occur at the same time.</p>
+
+<h2 id="translation-in-prokaryotes">Translation in prokaryotes</h2>
+
+<p>Three DNA bases code for one amino acid. That means there is redundnacy as there can be 4^3=64 possible triplet codes (codons). Multipe codons can code for the same amino acid. This is the universal gentic code, and most organisms use the same triplet code for the same amino acid.</p>
+
+<p>In translatio, small tRNA molecules carry specific amino acids and have the corresponding triplet code (anticodon) on them. Aminoacyl tRNA synthases attach the correct amino acid to each tRNA. Each amino acid has its own aminoacyl tRNA synthase and these bring the correct amino acid together with the correct tRNA. RNA wobble means that GU base pairs can bond. For example this means that histidine tRNAs which have the anticodon GUG can bond to CAU and CAC in the mRNA. This is the explanation for how a single tRNA can recognise multiple codons for the same amino acid, so valine for example has two codons, one of them by wobble. There is however a codon bias which needs to be accounted for when trying to express recombinant DNA, as one organism may have a different codon bias to another.</p>
+
+<p>The ribosome brings together tRNAs with mRNA at the right location on the mRNA strand to form peptide bonds between amino acids. Prokaryote ribosomes are made of 30S and 50S subunits making a 70S ribosome. The 30S subunit has a 16S rRNA subunit which is highly variable between species. The large subunit has three binding sites: A (acceptor), P (peptide), E (exit). It is rRNA in the 23S subunit (which is a subunit of the 50s subunit) that forms the peptide bond in the growing chain, we call this a rybozyme.</p>
+
+<p>The 5’UTR is the point at which the ribosome binds and assembles which is in front of the start codon, in prokaryotes the translation starts when the first AUG codon is read. Upstream of this is the Shine-Dalgarno sequence which is what recuits the ribosome, this is the ribosome binding site. The anti-Shine-Dalgarno sequence is on the 16S rRNA which is a subunit of the 30S subunit, it is this complementary sequence which allows the ribosome to bind to the correct location. The sequence for the Shine-Dalgarno is typically UAAGGAGG if the sequence is the consensus. The small subunit therefore binds to the S-D sequence and a methionine derivative called N-formyl-methionine (fMet) and an initiation tRNA (tRNAi) begin the translation (in prokaryotes). Only tRNAi with fMet (tRNAifMet) can bind to the small ribosomal subunit.</p>
+
+<p>Translation factors are proteins that bring ribosome components to the translation site and construct the ribosome and translation complex. Initiation factors IF1, IF2 and IF3 assemble the 30S initiation complex. This complex is the 30S subunit and tRNAifMet. The removal of the IF3 initiation factor then allows the 50S subunit to bind and the full 70S initiation complex is then formed.</p>
+
+<p>After this, tRNAifMet binds to the P site and translation begins. tRNAs recognise the next codon, enter the A site, the peptidyl transferase properties of the 23S rRNA then forms a pepite bond between the two amino acids. The first amino acid is then released from its tRNA and moves to the E site. This is repeated until a pepite chain is formed. This process is called elongation, and elongation factors use a phosphate group to add a tRNA into the A site. This process converts GTP to GDP. Translocation is the name for the movement of tRNA from P to E. The tRNA must exit the E site before the A site can be occupied by the next tRNA.</p>
+
+<p>When the ribosome encounters a stop codon (UAA, UAG, UGA) it meets a release factor protein. These release factors (RF1 and RF2) cause the 23S rRNA to cleave the bond between the last tRNA and its amino acid. Thus the whole ribosome assembly falls apart and the mRNA and polypeptide chain separate. A polysome is where multiple ribosomes bind to the same mRNA to make the multiple proteins at the same time, this happens in prokaryotes.</p>
+
+<h2 id="translation-in-eukaryotes">Translation in eukaryotes</h2>
+
+<p>Eukaryotic translation is different because mRNA is made in the nucleus so translation cannot begin until the mRNA has been fully transcribed, left the nucleus and modified. Ribosomes are made up of a 60S subunit and a 40S subunit which combine to form an 80S ribosome. There are more initiation factors in eukaryotes and more proteins are needed for eukaryotic translation due to higher regulation complexity. There is however no S-D sequence in eukaryotes. Ribosomes simply find the 5’G cap and a Kozak sequence near the AUG. Again, only one gene is contained within 1 mRNA in a eukaryote (which is why no S-D sequence is needed). Like in bacteria the first amino acid is always methionine however no formyl group is on this methionine like in bacteria, so it’s a standard methionine instead of a modified one. Eukaryotes also engage in post-translational modification by adding chemical groups which increases the diverstiy of proteins found in many eukaryotes.</p>
+
+<h2 id="translation-in-mitochondria-and-chloroplasts">Translation in mitochondria and chloroplasts</h2>
+
+<p>It is theorised that mitochondria and chloroplasts were once their own microorganisms which merged with ancient eukaryotes in a symbiotic relationship. Energy was supplied to the eukaryote through this relationship. The mitochondria and chloroplasts lost much of their genome over time, as they became more heavily reliant on their host cell, but some of that genome is still retained. Many of these genes are associated with protein synthesis within the organelle. Their ribosomes are also much closer in size to bacterial ribosomes.</p>
+
+<p><strong>References:</strong> my notes are made from, and follow the structure of my course textbook which is Biotechnology 2nd edition by David P. Clark, which can be found for purchase <a href="https://www.amazon.co.uk/Biotechnology-Christs-College-Cambridge-University/dp/0123850150/ref=sr_1_3?ie=UTF8&amp;qid=1538935681&amp;sr=8-3&amp;keywords=biotechnology">here</a>.</p>
+:ET

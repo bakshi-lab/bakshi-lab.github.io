@@ -1,0 +1,159 @@
+I"k<h2 id="the-beginning-of-modern-biotechnology">The beginning of modern biotechnology</h2>
+
+<p>Biotechnology has been around for a long time, we’ve been making bread and cheese, brewing beer and wine for a while now. These are considered products of traditional biotechnology. One of the most famous examples of traditional biotechnology is the domestication of teosinte into modern modern-day maize (corn). Maize is unrecognizable from its parent teosinte.</p>
+
+<p>Modern day biotechnology products include things such as human insulin for diabetics. Insulin used to be derived from animals, but there was always a risk of raising an immune response in the patient from animal-derived insulin. Modern insulin is derived from recombinant bacteria with the human insulin gene inserted into them, this insulin raises no immune response in humans.</p>
+
+<h2 id="the-father-of-modern-genetics-gregor-johann-mendel">The father of modern genetics: Gregor Johann Mendel</h2>
+
+<p>Mendel (1822-1884) was a monk who studied genetic inheritance through his peas. He studied various traits of his peas such as their height, shape, and colour. To study the hereditary nature of these traits he set up pure lines of peas with the trait he was interested in. For example he bred tall pea plants together for many generations until they always produced tall offspring, this meant that they were now pure-breeding tall peas. He did the same for short pea plants, breeding them for generations until the plants were “purely” short. Once he had pure-breeding tall and pure-breeding short pea plants, he bred them together to observe their progeny.</p>
+
+<p>He realised that if one breeds a tall (pure-breeding) pea plant with a short (pure-breeding) pea plant, the progeny will always be tall. It was as if the trait for tallness was dominant over the short trat. Mendel in fact called the visible (expressed) trait dominant, and the invisible trait recessive.</p>
+
+<p><img src="/assets/postimages/fundamentalsL1/mendel.jpeg" alt="mendel" height="60%" width="60%" class="img-responsive" /></p>
+
+<p><em>Diagram showing how pure-breeding peas produce offspring which then self fertilises to produce its own offspring</em></p>
+
+<p>Above is shown a diagram of the pure-breeding plants bred together (top) and the progeny self fertilising (bottom). T represents the dominant tall gene, and t represents the recessive short gene. Notice how all the progeny of the pure-breeding plants are “carriers” of the short gene. It is only when two carriers of the recessive short gene are bred together that the recessive trait (genotype) can manifest itself as an observable characteristic (phenotype).</p>
+
+<h2 id="the-chemical-structure-of-dna">The chemical structure of DNA</h2>
+
+<p>DNA is made of nucleotides joined together to form a polymer. These nucleotides are made of deoxyribose, a phosphate group and a nitrogenous base. Two deoxyribose sugars are connected to one another by a phosphate group. The 3’ end of one sugar is connected to the 5’ end of the other with the phosphate in the middle forming phosphodiester bonds. We say the chain runs in a 5’ to 3’ direction.</p>
+
+<p>There are 4 different nitrogenous bases found in DNA, these are adenine (A), thymine (T), cytosine (C) and guanine (G), and these are attached to the deoxyribose molecule. Thymine and cytosine are pyrimidines, meaning they contain an aromatic pyrimidine group, adenine and guanine are purine molecules meaning they contain two aromatic rings (a pyrimidine group joined to an imidazole ring). Purines bond to pyrimidines using hydrogen bonding: adenine bonds to thymine with 2 hydrogen bonds whereas guanine bonds to cytosine with three hydrogen bonds. This is important to note because the GC content of double stranded DNA (dsDNA) can be used to predict the melting temperature (the temperature to split DNA into ssDNA) because the three hydrogen bonds between G and C are stronger than the two between A and T, and so determine the melting temperature. A higher GC content in a strand of DNA leads to a higher melting temperature as more energy is required to break more bonds. It is these hydrogen bonds which keep DNA double stranded.</p>
+
+<p>DNA arranges itself into a 3D structure called a double helix because this lowers the overall energy of the molecule. DNA is typically found as a right-handed helix (it turns clockwise around its central axis) where each turn contains 10 bases. We call this conformation of DNA the B-form and it is the most common form of DNA found in aqueous low-salt environments. If the concentration of salt around DNA were to rise significantly then the DNA double helix alters into the A-form of DNA, more tightly bound with 11 base pairs per turn. Specific proteins can bind to DNA which change its shape to the Z-form which is a left-handed helix with 12 base pairs in a single turn. These proteins tend to bind around genes. The sugar-phosphate backbone takes on a sort of zig-zag shape in this form.</p>
+
+<p><img src="/assets/postimages/fundamentalsL1/dnaforms.png" alt="DNA forms" height="80%" width="80%" class="img-responsive" /></p>
+
+<p><em>Side view of A-, B-, and Z-DNA respectively</em></p>
+
+<p><em>source: Richard Wheeler (Zephyris) at en.wikipedia.
+Permission is granted to copy, distribute and/or modify this file under the terms of the GNU Free Documentation License</em></p>
+
+<h3 id="rna">RNA</h3>
+<p>RNA is similar to DNA in that it is a polymer, but there are key differences. For starters, thymine is not found in RNA, instead being replaced by a base called uracil (U), and as the name suggests, the sugar backbone is made of ribose, not deoxyribose. This means that on the 2’ carbon of the sugar there is an -OH group instead of just a -H atom.</p>
+
+<h2 id="packaging-dna-and-rna">Packaging DNA and RNA</h2>
+
+<p>Bacteria carry around their genes in one massive piece of DNA found in the cytosol because they do not have a nucleus. The ends of this DNA are joined together to form one large piece of circular DNA. A typical bacterial gene has about 1000 nucleotides in it, and the typical bacteria has only a few thousand genes. In order to fit all this DNA into the small bacterial cell it needs to be supercoiled. An enzyme called DNA gyrase initiates the supercoiling process, twisting the DNA and condensing it in the left-handed direction so that a single coil now contains 200 nucleotides instead of the standard 10 mentioned earlier! Then an enzyme called topoisomerase 1 (so called because it is an isomerase which acts on DNA topology) relaxes the supercoils made by DNA gyrase. These supercoiled loops connect to a scaffold made of protein.</p>
+
+<p>In eukaryotes DNA is packaged in a different way. Firstly the DNA gets wound around histone proteins which have a net positive charge which attracts the negative charge on the phosphate group which forms the sugar-phosphate backbone of DNA. We call the strands of DNA wound around histones chromatin. Each histone “ball” is formed of 8 histone protiens with a 9th protein called histone h1 which secures the DNA around the histones. We call these histones nucleosomes and around each nucleosome one will find around 200 base pairs.</p>
+
+<p><img src="/assets/postimages/fundamentalsL1/nucleosome.png" alt="DNA forms" height="35%" width="35%" class="img-responsive" /></p>
+
+<p><em>The 8 histones with DNA wrapped around them, joined using histone H1</em></p>
+
+<p><em>source: Darekk2 at en.wikipedia.
+This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.</em></p>
+
+<p>The histones are what are called “highly conserved” meaning that they are found largely in the same form in all eukaryotes. DNA expression is regulated by the tails of histone proteins sticking out of the nucleosome (called histone acetylation and de-acetylation catalysed by enzymes called “histone acetyltransferase” (HAT) or “histone deacetylase” (HDAC)). Where histones are loose, DNA is expressed because the various proteins and enzymes associated with gene expression have access to that section of DNA. Histones condense and prevent these proteins from accessing the DNA in regions which are not expressed and this forms a structure called heterochromatin.</p>
+
+<p>Even though we have said that DNA is condensed into chromatin, this is still not tightly packed enough to fit into the nucleus of a eukaryotic organism. Therefore it has to be further packaged. The chromatin is then further wound into another helical loop which is called the “30-nanometer fiber” because the diameter of the fiber is 30 nanometers. These fibers are formed of 6 nucleosomes per turn and this fiber is connected at various points to a protein scaffold (sometimes called the chromosome axis). DNA has “matrix attachment regions (MAR) (sometimes called scaffold attachment regions (SAR)) which are 200-1000 base pairs long and these are attached to the protein scaffold by matrix attachment region proteins. These areas which are AT rich have specific patterns of AT base pairs which are bent in such a way that it promotes the binding of the DNA to the nuclear matrix. After this, DNA is further coiled into chromosomes when the cell divides by mitosis.</p>
+
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Chromatin_Structures.png" alt="DNA DNA packing =" height="100%" width="100%" class="img-responsive" />
+<em>Diagram showing how DNA is packed on different levels</em></p>
+
+<p><em>source: Richard Wheeler (Zephyris) at en.wikipedia.
+Permission is granted to copy, distribute and/or modify this file under the terms of the GNU Free Documentation License</em></p>
+
+<h2 id="model-organisms">Model organisms</h2>
+
+<p>Bacteria are the most common model organism used as they are found everywhere on earth, even in the most extreme and inhospitable environments. Some of them are very easy to grow in the lab, either in liquid cultures on on agar plates. We have exploited some of these extremophiles, most notably <em>Thermus aquaticus</em> which in extremely hot places such as hot springs. This bacterium needs to replicate even in these harsh environments (pH 1 and boiling temperature water), and so it must use the enzyme DNA polymerase. This enzyme is able to function at these high temperature and is therefore called a thermostable protein. We now regularly exploit the ability of <em>T. aquaticus’s</em> DNA polymerase to remain stable at high temperature in order perform the high temperature reactions needed for the polymerase chain reaction (PCR). In the same way that <em>T. aquaticus’s</em> DNA polymerase made PCR possible, the enzymes in other extremophiles may soon make other biotechnologies possible.</p>
+
+<h3 id="e-coli"><i>E. coli</i></h3>
+
+<p>The most common biotechnology and biology workhose bacteria is <em>E. coli</em>. It is a small gram negative rod-shaped bacterium 0.6 by 1-2 microns accross with about 4000 genes. It is prokaryotic and so has no nucleus, its entire chromosome floats around in the cytoplasm. It uses flagella to move itself and has pili on its outer membrane to adhere to surfaces. Much of the work with recombinant DNA has been done in <em>E. coli</em>. Bacterial cell cultures such as <em>E. coli</em> can be grown up in just hours to a high cell density. One can control the growth easily by regulating temperature and nutrient type/concentration, and these grown cultures can be stored for long periods of time at -80 degrees celsius for over 20 years.</p>
+
+<h3 id="plasmids">Plasmids</h3>
+
+<p>Bacteria often produce bacteriocins which are toxic molecules which kill neighbouring bacteria as they compete for resources. <em>E. coli</em> produce bacteriocins but they are called colicins. These natural anti-bacterials act in two ways, either by causing holes in the bacterium’s cell membrane, which destroys the concentration gradient which drives the production of ATP, or by destroying DNA and RNA of enemy cells. The cell producing these toxins is not affected because it produces protiens which make it immune to its own toxins.</p>
+
+<p>Plasmids are extrachromosomal genetic material in the form of small circles of DNA. This DNA is not part of the main genome of the organism and can be found in the cytoplasm of bacteria, and even some eukaryotes. Plasmids for bacteriocins contain the gene for the bacteriocin, a gene for the immunity protein and genes that control the expression of the plasmid, they also include a replication origin which is a string of DNA where replication is initiated.</p>
+
+<p>In recombinant DNA technology the bacteriocin gene is removed and replaced with another gene, possibly one for an enzyme which is of interest for industry. This forms a recombinant plasmid and this technique is used extensively in molecular biology.</p>
+
+<h3 id="bacillus-subtilis"><i>Bacillus subtilis</i></h3>
+
+<p><em>Bacillus subtilis</em> is a bacterium used to research gram positive organisms. Its ability to form spores which can survive indefinitely is of particular interest because they can survive high heat, radiation and toxic chemicals in this metabolically dormant state. Because gram positive bacteria have a single membrane instead of a double membrane like gram negative bacteria, they can more easily secrete proteins into the extracellular space and therefore <em>Bacillus</em> is used in industry to produce a wide variety of extracellular proteins.</p>
+
+<h3 id="other-bacteria"><i>Other bacteria</i></h3>
+
+<p><em>Pseudomonas putida</em> (gram negative) is studied because it is able to degrade aromatic compounds</p>
+
+<p><em>Streptomyces coelicolor</em> produces many antibiotics and can break down cellulose and chitin.</p>
+
+<p><em>Corynebacterium glutamicum</em> produces industrially relevant compounds such as L-glutamic acid and L-lysine.</p>
+
+<h3 id="eukaryotes">Eukaryotes</h3>
+
+<p>Eukaryotic cells have nucleii. Most of the time this nucleus contains two homologous copies of each chromosome, making them diploid, however some eukaryotes (many plants) may contain multiple copies making them polyploid. Polyploidity makes genetic analysis very difficult.</p>
+
+<p>In animals a germline cell is a cell which divides to give haploid progeny. Therefore a diploid germline cell will produce cells with only one of each chromosome. These cells are gametes and the formation of these cells is meiosis. Two gametes can then fuse together to form a diploid cell called a zygote. Somatic cells are simply the cells that make up an individual and therefore any mutation in a somatic cell cannot be passed on to the next generation whereas a mutation in a germline cell can be passed on. However somatic mutations can have an effect on the individual while they are developing, say if a somatic cell mutates early on and is the precursor for a large body part, that body part will have mutated somatic cells. Another consequence of many somatic cell mutations is the formation of cancers.</p>
+
+<p>Many plants are totipotent meaning that the difference between somatic cells and germline cells is not clear. A plant cell is able to form any part of the plant regardless of whether the cell is reproductive or not. Animals have cells like this called stem cells which are like “blank slates” and can differentiate into many different types of cell.</p>
+
+<h3 id="yeast">Yeast</h3>
+
+<p>Yeast is an industrially relevant fungus. The most common strain used in research and biotechnology is brewer/baker’s yest (<em>Saccharomyces cerevisae</em>). Although yeast is a single celled organism, it is eukaryotic and its DNA is held within its nucleus, able to communicate with the cytoplams through nuclear pores. Its 16 chromosomes have telomeres and centromeres and it was the first eukaryotic genome to be fully sequenced (12Mb and 6000 genes).</p>
+
+<p>Yeast grows more slowly than bacteria, with a doubling time of 90 minutes instead of the 20 minutes that some bacteria can reach, however this is still fast by eukaryotic standards. It can also be stored at -80 degrees celcius for long periods of time like bacteria. They also have plasmids in their cytoplasm (called the 2 micron circle), however this DNA is still wound around histones like other eukaryotic DNA. This plasmid can be used in order to express heteologous genes in yeast. The plasmids have a gene for a protein called flippase which recognises DNA repeats (FRT sites) and recombines DNA segments carrying FRT sites no matter wher ethey have come from or what organism they are in. Flippase is therefore used to engineer higher organisms.</p>
+
+<p>Yeast cells can divide by budding, as opposed to binary fission like in bacteria. As the yeast cell grows, part of the cell is partitioned off and organells move into this partition, which is now a growing bud. Another nucleus is then created through the process of mitosis and once the bud has grown sufficiently, it is cleaved off (leaving a scar on the mother cell) to form its own genetically identical cell. Yeast can also exist in the haploid state and if placed under environmental stress will divide by meiosis. This will create 4 spores all of which are haploid. These haploid cells are two $\alpha$ cells and two <strong>a</strong> cells. These spores are called ascospores and are contained within an ascus which protects them. If they find a more suitable environment they will recombine and germinate to form diploid cells. In the wild these cells would normally immediately re-germinate and fuse together but in the lab these cells can be separated out and grown individually as haploid yeast cells. Only an <strong>a</strong> cell and an $\alpha$ cell can re-merge to form a diploid yeast cell. We do not call them male or female because they are physically similar cells unlike sperm and egg cells. These haploid cells are able to express a chemical message to one another in the form of pheramones (mating compounds), when the haploid cells detect the presence of pheramones from a haploid cell of a different mating type it will ready itself for fusion. This type of reproduction is useful as it creates genetic diversity which allows organisms to adapt to new environments.</p>
+
+<h3 id="caenorhabditis-elegens"><i>Caenorhabditis elegens</i></h3>
+
+<p><em>C. elegans</em> is a roundworm with two sexes: a hermaphrodite sex which can self fertilize and a male. It is tube-like, transparent meaning it can be studied using fluorescent methods, and has a short lifespan of 2 days meaning many generations can be studied for genetic experiments. It has many genes similar to humans and its entire genome has been sequenced.</p>
+
+<h3 id="drosphila-melanogaster"><i>Drosphila melanogaster</i></h3>
+
+<p>The common fruit fly has a life-span of 2 weeks which makes it good for generational studies. Many mutations can be induced in <em>Drosphila</em> such as those which might give it 4 wings or extra long hairs. An interesting fact about this fly is that while it grows, the number of cells does not change all that much. Instead the cells themselves get larger, requiring vast amounts of DNA in each cell. When the chromosomes replicate they remain attached to one another, they are called polytene chromosomes. All this DNA is needed to produce the mRNA which is in turn used to produce all the proteins needed for these large cells to function. The polytene chromosomes can get so large that they can be seen under a normal light microscope.</p>
+
+<h3 id="zebrafish">Zebrafish</h3>
+
+<p>Another multicellular model which is this time a vertebrate is the zebrafish. They are easy to breed and 70% of the genes that we find in humans have orthologs (that is they evolved from a common ancestral gene) in zebrafish. Its embryos are transparent and so the development of the fish can be seen easily and its development occurs over 24 hours and so it is often studied to see how cells arrange themselves physically to form the architecture of a new organism. Because of the high genetic similarity between zebrafish and humans, they are being used a disease model organism for drug screening.</p>
+
+<h3 id="the-mouse">The mouse</h3>
+
+<p>The mouse is so similar to humans that fewer than 1% of the mouse’s genes are not found in humans. Their genomes are easy to modify to create transgenic animals however they live quite long and their development takes time so this research is slow and time consuming.</p>
+
+<h3 id="in-vitro-animal-cell-culturing">In vitro animal cell culturing</h3>
+
+<p>Cell lines from humans, monkeys or other animals can be cultured in vitro. They can be adherent (meaining they stick to plastic dishes) or suspesion cells which grow within a liquid broth. These cells typically require 37 degrees celsius and high carbon dioxide concentrations. Because cell lines from different tissues (primary cells) die after a short time, cancer cell lines are often used because they are immortal. However some cell types such as neuronal cells can only be retrieved from primary sources.</p>
+
+<p>Genetic studies can be done on human cells, expressing, deleting or mutating different genes in cultured cells and their effects on the cells. Other cultured mammalian cells are used in industry such as chinese hamster ovary cells (CHO cells) which are used to express large therapeutic recombenant proteins such as monoclonal antibodies.</p>
+
+<p>Insect cell lines are often preferable to work with because they require less stringent growth conditions (not requiring fetal bovine serum).</p>
+
+<h3 id="arabidopsis-thaliana"><i>Arabidopsis thaliana</i></h3>
+
+<p>This is model flowering plant with quick growth in the lab. It is typically used for crop research to model the biology of plants. It is a good model for investigating how crops respond to disease and environmental stress. Moreover this plant has short generations of only 6-10 weeks, can be kept in a haploid state and has a small genome (for a plant) making it easy to work with.</p>
+
+<h2 id="viruses">Viruses</h2>
+
+<p>Viruses are strictly speaking not living, they cannot survive outside of a host organism. They are pathogens which infect a host cell and force it to produce more virus copies. Their anatomy is simple, they have a protein shell called a capsid inside of which is their genome which is either DNA or RNA. We call the viral particle (the capsid with its genetic material) a virion. These particles come in three shapes, filamentous, spherical (icosohedron) and complex (which are various different shapes such as those seen in bacteriophages). Typically when a bacteriophage infects a bacterium, the host will die and many new virions will spew out from its remains.</p>
+
+<p>Some viruses lie dormant after infecting their host, this is called latency (lysogeny for bacteria as opposed to the lytic phase when it kills the bacteria). A latent/lysogenic virus is called a provirus in animals and a prophage in bacteria.</p>
+
+<p>Viral genomes contain enough genetic material to replicate themselves, that is to produce the capsid proteins and other parts of the virus. Early genes are those which the virus activates directly after infecting the cell whereas some genes are activated later on in the infection and these are called late genes.</p>
+
+<p>Viral genomes come in many varieties. It can be (ss)DNA or (ss)RNA, linear or circular and if the genome is RNA it can be the sense or the anti-sense strand, sometimes called the (+) strand or the (-) strand. If the anti-sense or non-coding strand is the viral genome then the RNA is converted into the (+) strand, where it can be used directly to produce viral proteins.</p>
+
+<p>Retroviruses use ssRNA for their genome however as the name suggests, once infected the host uses reverse transcriptase enzymes in order to convert the RNA to DNA. That DNA is then integrated into the host DNA using two long terminal repeats. Unfortunately, such as in the case of AIDS, the viral genome is now part of the host genome and any division of that cell will replicate the viral DNA - this makes these sorts of diseases extremely hard to cure.</p>
+
+<p><em>For more information on retroviral genes see page 23 in the course textbook</em></p>
+
+<h2 id="sub-viral-creatures">Sub-viral creatures</h2>
+
+<p>These are creatures which unlike viruses cannot even survive outside of a host cell, they may be called gene creatures.</p>
+
+<p>An example are satellite viruses which are defective viruses. They need helper viruses for missing genes are capsid components. For example, hepatitis delta virus (which is a ssRNA virus) requires the help of hepatitis B to infect the liver.</p>
+
+<p>Other genetic creatures might be genetic material such as plasmids. Alone they cannot generate energy or replicate but inside a host they are able to replicate themselves and they would be unable to survive outside of a host cell - we call plasmids replicons. (Interestingly, some linear plasmids have been discovered so not all plasmids are circular!) Plasmids can be transfered from cell to cell by conjugation. If an <em>E. coli</em> cell has an “F” plasmid, which gives the cell the ability to mate, then it will be able to produce special pili (the sex-pilus) in order to mate with another <em>E. coli</em> with that plasmid. Bacteria can also exchange genetic information from their chromosomes if the F plasmid integrates into the main chromosome.</p>
+
+<p>Transposons are other gene creatures, and this is a length of DNA which integrates itself into another piece of DNA. Transposons move by transposition but lack an origin of replication, and therefore are no replicons, so they can only replicate if they integrate into a chromosome, plasmid or piece of viral DNA. Transposons can move in several ways. A transposon is made up of two (inverted) repeats on each end of its sequence, with the gene for transposition enzymes (such as transposase) between these repeats, and then structural genes between these two inverted repeats on either end. Transposase finds the repeats and excise the transposon from wherever it is - a target sequence is then found by the transposase (usually 3 to 9 base pairs long) somewhere in the host genome, and the transposase inserts the excised transposon into that location. During the insertion process the target sequence is replicated and so is found on either side of the transposon. This is called cut and paste transposition as the transposon is not conserved in its original location.</p>
+
+<p>Replicative transposition exists where the transposon itself is copied and remains conserved within its original location. We call the types of transposons that can do this complex transposons. The transposase only makes single stranded nicks at the end of the inverted repeats of the transposon meaning that the transposon is copied in single stranded formm and then the complementary base pairs are added to the ssTransposon in both the original location and destination. It is important to note that the transposon does not replicate itself, the host does.</p>
+
+<p><strong>References:</strong> my notes are made from, and follow the structure of my course textbook which is Biotechnology 2nd edition by David P. Clark, which can be found for purchase <a href="https://www.amazon.co.uk/Biotechnology-Christs-College-Cambridge-University/dp/0123850150/ref=sr_1_3?ie=UTF8&amp;qid=1538935681&amp;sr=8-3&amp;keywords=biotechnology">here</a>.</p>
+:ET

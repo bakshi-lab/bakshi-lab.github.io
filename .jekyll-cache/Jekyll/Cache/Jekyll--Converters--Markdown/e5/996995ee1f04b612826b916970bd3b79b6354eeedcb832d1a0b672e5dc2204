@@ -1,0 +1,74 @@
+I"�4<h1 id="l11">L11</h1>
+
+<p>Metabolic engineering is the changing of native pathways in a cell, or the introduction of heterologous pathways in order to force a microorganism to behave in the way you want it; that is to make it a cell factory to produce your product of interest. It can also be defined as the modulation of existing metabolic pathways to overexpress a protein or improve the properties of the cell.</p>
+
+<p>One can input the requirements for cells: nutrients, cofactors and other requirements, and treat the cell as a reactor which produces industrial chemicals for either bulk or fine usage, the pharma industry or energy sector.</p>
+
+<p>The metabolism is defined as the entire network of chemical reactions in a cell, catalysed by enzymes which build up large molecules from small ones (anabolism), or break down large molecules into small ones (catabolism). Catabolism generally generates energy and anabolism generally requires energy. Therefore anabolism and catabolism are generally coupled so that one reaction can drive the other.</p>
+
+<p>Nutrients are broken down for energy and also to produce the fundamental building blocks to build up other large molecules, and excess or damaged proteins are degraded too. Other metabolic activity includes membrane transport, either large molecules or small molecules on the cell surface membrane or membranes within the cell such as those membrane bound organells.</p>
+
+<p>There are several general metabolic “routes”. These are metabolism of: energy, carbohydrates, amino acids, nucleotides, lipids, glycan, cofactors, vitamins, xenobiotics, and terpenoids.</p>
+
+<p>It is important to distinguish between primary and secondary metabolism. Primary metabolites are those that are directly involved in the growth, development and multiplication of the cell. Generally the biosynthesis of compounds that make up the biomass of the cell, and metabolic pathways involved in breaking down energy use primary metabolites.</p>
+
+<p>Secondary metabolites are ones that are not primary metabolites: meaning that they aren’t involved directly in growth and survival. Loss of secondary metabolites doesn’t doom the cell, but it may impair cell function. Examples of secondary metabolites are molecules produced by plants as insecticides.</p>
+
+<p>A metabolic pathway is defined by Voet and Voet as being a consecutive series of enzyme reactions that produce specific products.</p>
+
+<p>The metabolic reactions are catalysed by enzymes. The lock and key model is a simplified explanation of what’s going on, but the induced fit theory better describes enzyme activity by taking into account conformational changes in the enzyme caused by the substrate and product. Recall that enzymes lower the activation energy of a reaction but do not change the position of equilibrium. This allows for step-wise oxidation of fuel into CO2, unlike in a fire which has a high activation energy and releases all the chemical energy at once.</p>
+
+<p>As previously mentioned, catabolic reactions are generally energetically favourable and so can be coupled to anabolic reactions which are not favourable in order to drive them forward. This requires the use of an activated carrier molecule such as ATP, and possible electron carriers too, such as NAD(H) or NADP(H), carboxylated biotin etc. These are activated carriers which are high energy linkage groups, and the backbone. For example ATP is made up of ADP and Pi.</p>
+
+<p>Flux is the amount of material flowing through a pathway and is given as a concentration per unit time. It is also a rate of conversion from substrate to product. When discussing metabolism as a whole, growth can be spoken about in flux units, or the rate of biomass formation per time.</p>
+
+<p>Metabolic regulation is done in several ways. The most obvious way is through the concentration of products and reactants, as this will affect the flux (dynamic equilibrium). Specialised RNAs or proteins can control the flux through pathways (known as hierarchical regulation). This involves regulation at the transcription and translation level, whereas some other regulation can be purely allosteric.</p>
+
+<p>Different organisms obviously have sets of pathways in their metabolisms. Some organisms have different flux distributions and so something learned about a pathway in one species will not necessarily be applicable to another organism. Also other routes through the metabolism may lead from the same input to the same output, just by a different path. And with environmental changes, different pathways can ramp up or slow down their fluxes and new ones can activate to respond to environmental pressures. Any attempt to engineer a pathway therefore may not lead to any actual change because of this.</p>
+
+<h1 id="l-12">L 12</h1>
+
+<p>Cell factories can be inside of any hosts such as microbes, be they bacteria or yeast, plants, algae, insect cells or mammalian cell lines. The goal of achieving the maximum amount of high quality product secretion may involve the minimisation of cellular byproducts and minimising cell culture density, as high densities often lead to cell clumping.</p>
+
+<p>Millennia of evolution means that cells have a primary function: and that is to survive, not to produce our product of interest. The strategy to overcome this is to remove feedback inhibition and overexpress key enzymes. Key enzymes are those with flux control coefficients indicating the strongest control of the flux of a pathway. One can also block competing pathways to force metabolites down the pathway of interest.</p>
+
+<p>Non-native genes can be introduced so that the host cell produces products it does not normally make. Or one can modify genes so that a product which the cell already does make can have more industrially desirable properties (reduce odour etc). As discussed before, one can modify the cells to secrete proteins into the periplasmic or extracellular space to make purification easier or one can engineer a cell to utilise different substrates.</p>
+
+<p>Modelling is done as a first step in metabolic engineering. Many species have had their metabolomes (all the metabolites including small molecules in an organism) identified and novel organisms can have their genomes sequenced in order to explore new pathways of interest, and can even monitor many metabolites individually. This can be an untargeted metabolomic study which attempts to analyse all of the metabolites in a sample, or a targeted study which looks at a clearly defined group of known molecules in the metabolome. Fingerprinting is the study of the endo-metabolome and footprinting is the study of the exo-metabolome.</p>
+
+<p>Workflow:   Metabolite identification is usually done using chromatography of all types, GC, LC, IC, or UPLC, coupled with mass spec or NMR. There are so many metabolites though, many of which are structural isomers of one another, and many are similar molecular weights so identification of an entire metabolome is extremely difficult, and therefore before conducting large scale experiments like this one needs to assess the possibility and feasibility of the study.</p>
+
+<p>Recall typical enzyme kinetics. The Michealis constant is inversely proportional to the binding affinity of an enzyme. Low MM constant means high affinity and vice versa. If the rate of enzyme-substrate unbinding is much higher than the rate of enzyme substrate reactions then the efficiency of an enzyme is very low. Kinetic rate laws for enzymes are complex, but they can give an insight as to where the bottlenecks in a system are. These models are theoretically well established but are not feasible to implement in reality. If one cannot find a bottleneck then the material balance over the whole cell can be studied to see how certain inputs affect other outputs.</p>
+
+<p>Information about the genome, transcriptome, proteome, and metabolome can be used to begin to piece together the fluxome which can then predict phenotypic behaviour. Phenotypic behaviour may include disease, product purity, etc.</p>
+
+<p>Measuring fluxes inside the cell is impossible, and so we must infer them from model based interpretation, such as uptake and secretion fluxes using isotopic labelling. Combining these data with models can allow one to infer fluxes. Mass spec data using isotopic labelling can also be used to infer flux ratios. Eg one can input a carbon compound with known carbon 13 markers and measure the ratio of carbon 13 coming out of different pathways to determine what proportion of the input went to each pathway.</p>
+
+<p>Flux Balance Analysis is the tool used to investigate flow through pathways. One needs fewer inputs to their system and the computation is inexpensive to perform, however it means that one generates an allowable solution sample space of infinite size. One can then optimise their network within this sample space to find an optimal solution.</p>
+
+<p>Metabolic control theory is used in order to measure the response of the metabolism to external factors. In the early 20th century, biochemistry assumed that only one enzyme in a pathway would be the rate limiting step, from the knowledge that at steady state the flux through all enzymes would be the same. But we now know that the flux through a pathway can depend on the rate constants of all reactions involved. In metabolic control theory, each step determines the rate by a different amount, this can be captured using its flux control coefficient.</p>
+
+<h1 id="l13">L13</h1>
+
+<p>Metabolic engineering in practice seeks to enhance the yield, selectivity and productivity of our system, increase the potential for new types of products, increase the variety of substrates that can be used and improve the properties of the cells we are using. We can manipulate metabolisms to produce ethanol, amino acids, biobutanol, antibiotics, vitamins, polymers, dyes, biohydrogen, antibiotics etc. The list is long.</p>
+
+<p>The areas of metabolism most manipulated are: nitrogen usage, oxygen usage, by-product formation lowered to prevent overflow metabolism, substrate uptake increased, and the genetic stability of novel pathways can be increased to, for example, prevent bacteria kicking out plasmids which code for the novel product to reduce their own metabolic burden. One can also facilitate the cell to more effectively break down xenobiotics.</p>
+
+<p>Most applications of metabolic engineering are commercial. It’s not worth using expensive microbes to produce something when a cheap chemical route exists, especially when expensive substrates are needed.</p>
+
+<p>1st generation biofuels used food crops to produce ethanol, 2nd generation biofuels used wood products such as lignocellulose, but still use potential farmland. 3rd generation biofuels promise to use wetlands, algal biotechnology to produce fuels, and 4th generation biofuels promise to use no biomass at all.</p>
+
+<p>One can increase product production by considering switching hosts. One should choose a host which is easy to genetically modify, grows rapidly, uses cheap resources and is actually capable of producing the target product.</p>
+
+<p>Amino acids have been found to be flavour enhancers and so have some commercial relevance and oil yields in peppermint has been increased through metabolic engineering of the plant. There are even efforts to use microbes which can utilise electrical energy to take CO2 and convert it to higher compounds for fuel, or to turn fatty acids into fuels.</p>
+
+<p>Baker’s yeast has been engineered to produce opiates for the medical sector by engineering in poppy plant pathways and it has also been engineered to produce the flavour compound vanillin.</p>
+
+<p>Moreover the top grossing drugs nowadays are recombinant proteins, so there are always efforts to increase the production efficiency of these proteins in cells and efforts to increase their secretion. Some recombinant proteins are also being used as pesticides now. One can target genes for specific enzymes, a cluster of enzymes or target the organism’s entire genome.</p>
+
+<p>Enzymes can be improved by modifying their conformation through sequence changes, by reducing their specificity so they work with more substrates, adding disulphide bonds to improve stability, reduce end product inhibition and change their performance in harsh conditions like solvents.</p>
+
+<p>Adding a route from another organism isn’t always a guaranteed success due to interference upstream or downstream of that route. Instead one can sometimes use cell wide adaptive evolution to screen for cells which perform well in certain conditions. One can culture cells in ever increasing concentrations of solvent for example, do omics analysis and sequence their genomes to see what has changed. Or one can use directed evolution of enzymes discussed earlier, or metabolic evolution, which incorporates metabolic engineering with adaptive evolution by serially transferring an already metabolically engineered strain. (see final slide of L3 for comprehensive list).</p>
+
+<p><strong>References:</strong> my notes are made from, and follow the structure of my course textbook which is Biotechnology 2nd edition by David P. Clark, which can be found for purchase <a href="https://www.amazon.co.uk/Biotechnology-Christs-College-Cambridge-University/dp/0123850150/ref=sr_1_3?ie=UTF8&amp;qid=1538935681&amp;sr=8-3&amp;keywords=biotechnology">here</a>.</p>
+:ET

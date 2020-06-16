@@ -1,0 +1,106 @@
+I"G><h2>Genetic changes associated with ageing</h2>
+
+<p>Environmental stress such as that caused by UV light from the sun, various chemicals or other biological molecules can cause DNA damage. Other than external sources of DNA damage, there are internal factors too. DNA replication or oxidative stress can introduce errors into the genome for example.</p>
+
+<p>Somatic mosaicism is where some somatic cells have different genetic material to the rest of the body due to these stresses. In people aged 70+, as much as 2% of cells in the body may have significantly different genomes than the expected genome due to mutations that had accumilated over time and not been repaired.</p>
+
+<p>Oxidative stress is caused by oxidising radicals. Mitochondrial electron transport uses 85% of the oxygen in our body, and reduction of oxygen molecules reactive oxygen species (ROSs) such as superoxides or peroxides. If they come into contact with DNA, proteins or lipids, they will react and cause damage. This is why mtDNA has such a high mutation rate, it exists in this highly oxidative environment.</p>
+
+<h2>Telomeres</h2>
+
+<p>The length of telomeres determines whether or not a cell may divide or become senescent. Because DNA polymerase cannot replicate the DNA at the ends of chromosomes, each round of division will slightly shorten the telomeres. Once they are too short, to prevent damage to the coding genetic material, a cell will stop dividing.</p>
+
+<p>Shelterin is a protein on the ends of the chromosomes which prevents the activity of enzymes which repair breaks in dsDNA. If this protein were not there then the ends of chromosomes would fuse together. Telomerase is an enzyme which can repair the shortened ends of DNA. It is a reverse transcriptase with an RNA template called TERC. Telomerase activity is low in most cells (except reproductive cells) and so telomere shortening happens.</p>
+
+<h2>Epigenetics</h2>
+
+<p>This has been spoken about before but includes DNA methylation, histone modifications and chromatin remodelling.</p>
+
+<p>Histone modification are post-translational modifications of histones such as acetylation and methylation which change the access that proteins have to the DNA. These changes are reversible.</p>
+
+<p>Chromatin exists as euchromatin which is loosely packed chromatin forming the bulk of genes being expressed, and heterochromatin which is tightly packed chromatin around histones. Typically methylation and the amount of heterochromatin goes down with age. This means more DNA gets transcribed into non-functional mRNA, and this destabilises the genome. HP1 alpha and the NuRD complex are proteins responsible for maintaining the the structure of heterochromatin, its amount and location.</p>
+
+<h2>Cellular dysfunction</h2>
+
+<p>Loss of functions with age include: nutrient sensing, protein degradation, and mitochondrial function.</p>
+
+<h3>Nutrient sensing (nematodes)</h3>
+
+<p><em>C. elegans</em> tend to live for 2-3 weeks. There are mutations which increase its lifespan or change its hibernation (dauer) patterns. If there is not enough nutrients or water during the 4 larval stages of growth the worm will go into dauer. Various mutations in <em>daf-2</em> and <em>age-1</em> are temperature sensitive and cause the worm to go into dauer depending on that temperature and regardless of the nutritional environment. Other mutations increase the lifespan to up to 2 months without entering the dauer stage.</p>
+
+<h3>Insulin signalling in nematodes</h3>
+
+<p>DAF-1 and AGE-2 proteins are involved in metabolic rate regulation.  DAF-2 binds to an insulin-like molecule which then activates AGE-1 proteins, this phosphorelates PIP3, preventing DAF-16 from entering the nucleus. If DAF-16 enters the nucleus it activates genes which are associated with reduced oxidative stress which decreases metabolism of the cell, subsequently extending lifespan. Humans have an analogue to this pathway and fasting or caloric restriction has been found to decrease the activity of this pathway (IIS pathway) which can extend lifespan.</p>
+
+<h3>Protein homeostasis</h3>
+
+<p>Proteins can lose their shape by unfolding due to heat shock, oxidation, chemical stress or because they have been targeted for destruction. These defective proteins need to be repaired or removed from the cell lest they cause damage. Chaperones are proteins that mediate folding of proteins into the right conformation. These proteins are found in the mitochondria and the cytoplasm as well as other organelles. These proteins lose function as the cell ages, and so giving them extra activity in late stages of life is a target of anti-aging research. In <em>C. elegans</em> chaperone overexpression leads to longer life.</p>
+
+<p>The ubiquitin-proteosome, microautophagy-lysosome and chaperone-mediated autophagy systems degrade misfolded proteins instead of fixing them. Small enzymes mark proteins for destruction by adding ubiquitin tags to them</p>
+
+<h3>Mitochondrial related ageing</h3>
+
+<p>Damage to mtDNA can accumulate and become noticeable because each mitochondrion has multiple copies of its genome. Neurons are very sensitive to mitochondrial damage because they do not replicate and have very high metabolic activity, therefore it is especially important that their mitochondria remain perfectly functional. Metabolism creates reactive oxygen species, reactive nitrogen species (RNS) and reactive lipid species (RLS). Antioxidant enzymes such as catalase and superoxide dismutase can reduce the effect of this reactive species.</p>
+
+<p>Autophagy is the mechanism by which defective cellular components are destroyed. When mitochrondria are specifically targetted by autophagy, it is called mitophagy. Autophagy is often referred to as macroautophagy to distinguish it from microautophagy. First an autophagasome which is a double membraned vesicle engulfs the organelle to be degraded. It then fuses with a lysosome to form an autophagolysosome whereby the contents of the lysosome, the degrading enzymes, flood into the space and breaks down the organelle. This process tends to happen more often with nutrient deprivation, and studies have shown that increasing the autophagy of non or malfunctioning mitochondria can slow down ageing.</p>
+
+<h2>Cellular senescence</h2>
+
+<p>When cells are damaged, they enter a metabolic state called senescence. The cell cycle terminates as to prevent the damaged cell from producing more damaged cells. Taking dividing adult cells in a lab and culturing them will only yield more cells up to a point. Given enough time they will stop dividing regardless of whether or not they are given more nutrients or growth hormones, but if maintained properly then they will not die. Fetus fibroblasts divide 60-80 times but older person fibroblasts divide maybe 10-20 times. Senescent cells produce tumour suppressing molecules like p53 and RB. They also accumulate senescence associated beta-galactosidase to degrade sugars in the cell lysosomes. They also secrete pro-inflammatory cytokines. Their chromatin structure changes as well which can be visualised with DNA dyes. The number of stem cells goes down with age, one process is called immunosenescence where fewer hematopoietic cells are produced, meaning fewer blood cells are made.</p>
+
+<h2>Apoptosis</h2>
+
+<p>This is the most studied type of programmed cell death. In apoptosis, an ordered process of gene activations occurs and the final product is a packaged dead cell which can be engulfed by nearby cells. The first process is blebbing, where the cell membrane balloons out in places. The nucleus shrinks and breaks into multiple smaller pieces and ultimately the entire cell shrinks and breaks up into a few large fragments called apoptotic bodies which are engulfed by phagocytosis.</p>
+
+<p>Type II programmed cell death is autophagy. Rather than degrade just organelles, it can degrade whole cells leaving what are known as autophagic vacuoles which contain cell debris.</p>
+
+<p>Necrosis is caused when an injury damages cells. They swell due to the change in osmotic pressure. Proteins denature and inflammatory cytokines are released to signal the immune system that clean-up is needed. The cell then ruptures and dies.</p>
+
+<p>Necroptosis is a regulated form of necrosis similar to apoptosis. A signal called RIP1 triggers the cell to undergo necrosis, the difference between necroptosis and apoptosis being that necroptosis triggers an immune response unlike apoptosis.</p>
+
+<h3>Proteolytic cascade</h3>
+
+<p>Apoptosis has been observed in <em>C. elegans</em>. <em>ced-3, ced-4</em> and <em>ced-9</em> are cell death abnormal genes, and <em>egl-1</em> is an egg laying defective gene. These 4 genes control apoptosis. <em>ced-9</em> inhibits apoptosis but the rest trigger it. CED and EGL work in a protein cascade to initiate cell death:</p>
+
+<p>At any time, the three CED proteins form an inactive complex in the mitochondrial membrane. External cell signals trigger the production of EGL-1 which binds to CED-9 and breaks it off the complex. This allows CED-4’s protease activity to cleave the CED-3 inhibitory domain. CED-3 is a heterodimer and it then goes on to start degrading other components in the cell. CED-3 is a caspase and it can cleave the inhibitory domain off of other caspases, hence starting the apoptosis cascade.</p>
+
+<h3>Mammalian apoptosis</h3>
+
+<p>This is obviously more complex than nematode apoptosis, with 15+ different caspases, and 20+ proteins similar to CED-9, the roles of each one are not fully characterised yet. There are two major pathways: the death receptor pathway (extrinsic pathway) begins at the death receptor which has an extracellular domain. A death signal binds to the death receptor triggering a signal in the intracellular domain leading to caspases being activated. The second pathway is the mitochondrial death pathway (intrinsic pathway). This is triggered when DNA damage is so great that it cannot be repaired, and factors from within the mitochondria release factors activating caspases. Both pathways can function independent of one another but are often triggered at the same time.</p>
+
+<h4>Death receptor pathway</h4>
+
+<p>Various signal molecules can bind to the death receptor. One such signal molecule is the Fas ligand which binds to the CD95 receptor (a highly glycosylated receptor found in immune cells). This causes trimerisation of the receptor, bringing the intracellular domains close, thus activating them. The activated CD95 recruits a protein complex called the death-inducing signalling complex (DISC), which has a component called caspase-8. When this happens, caspase-8 cleaves its own prodomain, and it then targets caspase-3 (which is homologous to CED-3 in <em>C. elegans</em>) which can then begin the cell degradation process.</p>
+
+<p>A different death receptor is tumour necrosis factor receptor 1 (TNFR1). When TNF-alpha binds to TNFR1, the intracellular portion of the receptor changes shape. This recruits complex 1 and the whole complex including the receptor are internalised. Complex 1 has TRADD, TRAF1 and RIP1 and this complex then associates with caspase-8 and FADD, and is now called complex II. The activated caspase 8 complex then activates caspase-3 (through the classic cleaving of the inhibitory domain) and the mitochonrial pathway and thus the cell contents begin to be degraded.</p>
+
+<h4>Caspases</h4>
+
+<p>Caspases are specialised proteases which only cleave at specific 4 amino acid long recongnition sequences after aspartate residues on a protein. They are highly conserved proteins in nature and are found in a huge variety of organisms. They are hetero-tetramers (4 domains), with two p20 and two p10 domains. p20 contains the active site allowing each tetramer to cleave two proteins at once. In addition to p10 and p20 domains, inactive caspases have a pro-domain which inactivates the whole thing by blocking the active site. To activate a caspase, another caspase can cleave the bonds between the prodomain and the p20 domains, which in turn allows two P20 and two P10 domains to come together forming an active caspase.</p>
+
+<p>Self-association activates caspases too. When two molecules of caspase 8 tirmerise, they cleave each others’ pro-domains and the caspase becomes active. This is what is used in the death receptor pathway.</p>
+
+<h4>Mitochondrial apoptosis pathway</h4>
+
+<p>Bcl-2 are a family of mitochondrial protein analogous to CED-9. Some of these proteins are pro-apoptotic and some are anti-apoptotic. They are active in their dimer state, and so if the ratio of dimerised anti-apoptotic Bcl-2 to dimerised pro-apoptotic Bax is high then apoptosis will not occur. if the apoptosis signal is strong enough, cytochrome c will diffuse out of the mitochondria and will induce the formation of an apoptosome. This is a signalling complex containing cytochrome c, caspase 9 and apaf-1 (the mammalian analogue to CED-4). Instead of CED-4 being blocked by CED-9 in this case apaf-1 is auto-inhibitory. Apaf-1 forms a heptamer which activates caspase which then activates caspase 3 triggering apoptosis.</p>
+
+<h4>Execution phase of apoptosis</h4>
+
+<p>Caspase-3 activates caspase-activated-DNAse (CAD). This nuclease cuts DNA between nucleosomes yielding fragments about 180bp in length. This can be exploited to determine if cells are in the apoptotic stage. Genomic DNA can be isolated and run on a gel, if the fragments sizes are multiples of 200bp long, then apoptosis was taking place.</p>
+
+<h4>Cleaning up</h4>
+
+<p>Apoptotic bodies are removed by phagocytosis. In mammals unlike <em>C. elegans</em> apoptotic bodies aren’t just removed by nearby cells. Macrophages patrol the body and take up these apoptotic bodies. The typical function of these cells is to digest foreign bodies and they recruit other immune cells to an infection site, but this does not happen with apoptosis (recall apoptosis does not trigger an immune response). Macrophages can distinguish between foreign bodies and apoptotic bodies.</p>
+
+<p>Apoptotic bodies have “eat me” receptors on their surfaces which trigger macrophages to engulf them but not to trigger an immune response.</p>
+
+<h2>Necroptosis</h2>
+
+<p>In necroptosis, the internal cell components leak out into the extracellular space. This triggers an immune response. The pathway is similar to the pathway used by TNFR1. When TNF-alpha binds to TNFR1, one of three things can happen. Complex 1 can form an NF-kappa-B activates the cell survival genes. Complex II can form with dimers of caspase 8 (apoptosis). Necroptosis occurs when caspase 8 binds with FLIP - in this case caspase 8 cannot be activated. This complex activates necroptosis and the contents of the cell all leak out by recruiting RIP1 and RIP3 kinase.</p>
+
+<h2>p53 and pRB defects</h2>
+
+<p>Oncogenic mutations (mutations that trigger cancer) generally trigger senescence and apoptosis. This is senescence without the shortening of telomeres, or premature senescence. The p53 and p16-RB pathway regulate oncogene-induced senescence. If either of p53 or pRB, but not both have a mutation then the cell can continue replicating for a few extra cycles before entering senescence. This is because the oncogene regulatory pathways are damped by one of the genes being mutated. This makes lifespan a bit longer. However if both p53 <strong>and</strong> pRB are mutated, then division occurs for even longer, and if some other oncogenic mutations occur, then telomerase may be activated, causing cell immortality and cancer.</p>
+
+<p><strong>References:</strong> my notes are made from, and follow the structure of my course textbook which is Biotechnology 2nd edition by David P. Clark, which can be found for purchase <a href="https://www.amazon.co.uk/Biotechnology-Christs-College-Cambridge-University/dp/0123850150/ref=sr_1_3?ie=UTF8&amp;qid=1538935681&amp;sr=8-3&amp;keywords=biotechnology">here</a>.</p>
+:ET

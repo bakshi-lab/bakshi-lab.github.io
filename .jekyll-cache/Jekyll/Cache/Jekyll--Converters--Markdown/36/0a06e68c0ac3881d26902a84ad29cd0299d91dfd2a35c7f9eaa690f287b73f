@@ -1,0 +1,44 @@
+I"<h2 id="scanning-tunnelling-microscopy">Scanning tunnelling microscopy</h2>
+
+<p>The probability of electrons quantum tunnelling from the tip of a STM to a surface is exponentially proportional to the distance from the tip to the surface. So at a certain distance of the tip from the surface, a current will pass through it. This current can be correlated to the distance and kept constant using a controller. As the tip moves across the surface and the current is kept constant, the height of the tip must change. This height change can be used to image single atoms on the topology of a surface.</p>
+
+<p>STM can also move atoms which is where the famous IBM logo written with atoms comes from. This can be done by taking the microscope out of “scanning mode” and putting it into “fabrication mode” where the tip can be lowered enough that it “touches” atoms and moves atoms (in this case of xenon) between the valleys between other rows of atoms (in this case nickel). The atom being moved has to be attracted to the tip of the STM.</p>
+
+<p>STM is powerful but one needs a conducting surface like a metal, biological surfaces are rarely conductive enough for STM to be viable. Instead, atomic force microscopy is used.</p>
+
+<h2 id="atomic-force-microscopy">Atomic force microscopy</h2>
+
+<p>AFM uses an atomically sharp probe to scrape the surface of a sample. The cantilever holding the tip bends according to the force between the tip and the sample. The image is rasterised and displayed on screen. Because we can manipulate voltages with extreme accuracy, positioning of the tip is made using piezoelectric ceramics which change their shape according to the voltage applied. A laser reflects off of the top of the cantilever that the tip is attached to and because the reflected laser is read some considerable distance away, a small displacement of the cantilever results in a large displacement of the laser’s point. The displacement of the laser can be correlated to the displacement of the cantilever and therefore the height of the surface.</p>
+
+<p>The tip doesn’t actually touch the surface, the height is so that it lies in the repulsive region on the Lennard-Jones curve so that the repulsion causes the deflection.</p>
+
+<h2 id="nanoparticles">Nanoparticles</h2>
+
+<p>These are particles in the sub-micron scale. Typically these are made of layers, with the outer layers being protective, and making the particle biocompatible and the inner layer being functional (having magnetic or optical properties). They are made soluble by making the outer layer hydrophilic, and other attachments can be made such as large molecules. Their uses can be for cancer treatment, fluorescent labelling, drug delivery, purification of samples, etc.</p>
+
+<h3 id="labelling">Labelling</h3>
+
+<p>CdSe nanoparticles are rods about 3nm in width and 10-20nm in length. They are fluorescent in UV light. The CdSe core is protected by a ZnS outer layer, and the layer outside of this one is silica which allows coupling of other molecules onto the bead to make it water soluble and make them attach to proteins.</p>
+
+<p>These particles have several advantages over dyes: Broad absorption peak means that the particle does not bleach during exposure/excitation and therefore can be used for much longer monitoring times. They have a very high brightness, so the molar absorption*quantum yield is very high. And finally the colour of the emission can be varied by changing the size of the nanoparticle.</p>
+
+<p>Adding antibodies to the surfaces of these particles means that they will bind to specific tissues or cancers, making them very useful for targeted imaging. These are called quantum dots, and can bind to DNA, proteins etc, one can even perform quantum dot PCR. Other particles called super paramagnetic iron oxide nanoparticles (SPIONs) can be used to increase MRI image contrast. The sizes of the quantum dots can affect the colour that they emit.</p>
+
+<h3 id="treatment">Treatment</h3>
+
+<p>Nanoparticles can be made hollow to carry various treatments, such as those for cancer, or siRNAs for potential diseases. Moreover they can be made with a magnetic core and coated with antibodies so that they can be heated in a magnetic field once in the right location to kill cells. They can also be used to generate singlet oxygen which destroys cell membranes.</p>
+
+<p><em>E. coli</em> have been exposed to cadmium chloride and sodium sulphate and have been found to process these compounds and precipitate out, or bio-synthesise CdS nanoparticles. The concentrations and types of these chemicals can be varied to produce different nanocrystal semiconductors with different size distributions.</p>
+
+<h2 id="dna-nanoengineeringorigami">DNA nanoengineering/origami</h2>
+
+<p>DNA is quite rigid up to 50nm in length and so can be used to build microstructures. DNA origami is the use of one very long strand of DNA with a custom sequence such that it folds into the shape one desires. A single long scaffold strand and many short staple strands are used to guide folding into the desired shape.</p>
+
+<p>DNA nano-devices may also be made which are mechanical machines made of DNA whose function relies on the folding and unfolding of DNA in and out of specific conformations. One inputs ssDNA which bonds with other ssDNA, folding in some way and possibly performing some task, and the output is dsDNA.</p>
+
+<h2 id="dna-storage">DNA storage</h2>
+
+<p>DNA, being base-4, and very stable, may be an ideal medium for storing huge amounts of data. Naturally, the read speed of such data is going be very slow, but the density will be massive. This is generally the trade-off seen going from CPU cache -&gt; RAM -&gt; SSD -&gt; HDD -&gt; Tape, so naturally DNA should follow. At some point the cost to store a certain amount of data for a length of time will exceed the cost to write that data in the first place. Tape needs to be rewritten every few years to prevent it from fading, this increases the cost to store it dramatically. DNA on the other hand is stable for a very long time, even if treated poorly. We often find remnants of DNA from organisms that died millions of years ago and were just left somewhere and we are still able to sequence the DNA and retrieve most of the data.</p>
+
+<p><strong>References:</strong> my notes are made from, and follow the structure of my course textbook which is Biotechnology 2nd edition by David P. Clark, which can be found for purchase <a href="https://www.amazon.co.uk/Biotechnology-Christs-College-Cambridge-University/dp/0123850150/ref=sr_1_3?ie=UTF8&amp;qid=1538935681&amp;sr=8-3&amp;keywords=biotechnology">here</a>.</p>
+:ET

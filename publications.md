@@ -2,7 +2,7 @@
 layout: article
 title: Publications
 subtitle:
-
+footer: false
 mode: immersive
 header:
   theme: dark
@@ -14,3 +14,4 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(0, 100, 87 , .7), rgba(139, 34, 139, .7))'
     src: /assets/images/engineering.jpg
 ---
+

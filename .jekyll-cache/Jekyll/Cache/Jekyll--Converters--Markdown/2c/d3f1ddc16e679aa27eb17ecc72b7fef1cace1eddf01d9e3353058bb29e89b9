@@ -1,0 +1,30 @@
+I"‚<h2>Natural history of biowarfare</h2>
+
+<p>Bacteria synthesise their own antibiotics to kill other bacteria in the surrounding space to give them an advantage in competing for resources. These are called bacteriocins, and the bacteriocins made by <em>E. coli</em> are called colicins which are even intended to kill other strains of <em>E. coli</em>. Recall that bacteriocins are agents deployed against other bacteria whereas toxins are agents deployed against higher organisms such as ourselves.</p>
+
+<p>Paramecium also engage in a sort of biowarfare. These are a protozoan organism of which some carry kappa particles. These are symbiotic bacteria which can grow and divide inside the Paramecium. These Paramecium are called killers because they release kappa particles into the environment and if another Paramecium which is not a killer and not able to host kappa particles happens to eat one, then it the kappa particle will release a toxin encoded by a defective bacteriophage into the Paramecium killing it.</p>
+
+<p>Wasps can inject eggs into maggots of plant-eating insects, and when the wasp eggs hatch they can eat the living maggots from the inside.</p>
+
+<h2>Novel targets for antibiotics</h2>
+
+<p>To prevent a post-antibiotic era, we need new antibiotics which target as of yet untargeted parts of the bacteriaâ€™s metabolism.</p>
+
+<p>One example is to target bacteria siderophores. These are secreted, bind to iron in host proteins and are then taken back up into the bacteria by specialised transport systems. Mammals do not synthesise siderophores making them a target for novel antibiotics. Knocking out siderophore reuptake or synthesis destroys the virulance of a bacteria.</p>
+
+<p>We can screen novel microbes for new antibiotics. We have not discovered most of the bacterial species in nature, and therefore there is potential to find many as of yet unknown antibiotic molecules. A new antibiotic, anthracimycin was discovered in an ocean bacteria which can kill Anthrax and MRSA.</p>
+
+<p>Another approach is to target existing antibiotic resistance rather than try to find new antibiotics. Gut bacteriophages can shuttle antibiotic resistant genes from microbe to another, disrupting this bacteriophage will disrupt existing antibiotic resistance.</p>
+
+<p>A final approach would be to disrupt bacterial quorum sensing. A microbe will use quorum sensing is used to detect the concentration of itself. Once a certain concentration has been reached, bacteria will change their behaviour, possibly forming biofilms which are very antibiotic resistant. Disrupting this would prevent coordination between bacteria and make fighting infections easier.</p>
+
+<h2>Phage therapy</h2>
+
+<p>Because phage infects only closely related bacteria, targetting only the bacteria causing the infection becomes easy and phage therapy would not disrupt the gut flora of the patient. Phages are unstable however, making storage hard, and are difficult to synthesise. Resistance to phage can appear though, and so researchers are investigating the use of lysins (toxins produce by phage) that break down the bacterial cell wall. Lysins target conserved peptidoglycan regions making it more difficult to develop resistance. With genetic engineering lysins can work against both gram positive and gram negative bacteria.</p>
+
+<h2>Recombinant anti-toxin technology</h2>
+
+<p>Recall dominant negative mutations. A typical bacterial toxin is made of an A and B subunit. The A subunit is active and the B subunit is binding. These subunits bound together carry out the toxic enzymatic reactions in our body. Using dominant negative mutations, the binding of a defective subunit to functional subunits will render the whole complex inactive. Mixing mutant inactive subunits with wild-type subunits has the effect of reducing the amount of active toxin.</p>
+
+<p><strong>References:</strong> my notes are made from, and follow the structure of my course textbook which is Biotechnology 2nd edition by David P. Clark, which can be found for purchase <a href="https://www.amazon.co.uk/Biotechnology-Christs-College-Cambridge-University/dp/0123850150/ref=sr_1_3?ie=UTF8&amp;qid=1538935681&amp;sr=8-3&amp;keywords=biotechnology">here</a>.</p>
+:ET
