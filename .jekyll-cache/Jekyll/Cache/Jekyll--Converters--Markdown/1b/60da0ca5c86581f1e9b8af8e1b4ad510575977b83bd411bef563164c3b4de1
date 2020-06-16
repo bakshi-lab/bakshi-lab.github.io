@@ -1,27 +1,10 @@
----
-layout: article
-title: Group Members
-subtitle:
+I"<h1 id="current-members">Current Members</h1>
 
-mode: immersive
-header:
-  theme: dark
-article_header:
-  type: overlay
-  theme: dark
-  background_color: '#203028'
-  background_image:
-    gradient: 'linear-gradient(135deg, rgba(0, 100, 87 , .7), rgba(139, 34, 139, .7))'
-    src: /assets/images/engineering.jpg
----
-
-# Current Members
-
-## Group Leader:
+<h2 id="group-leader">Group Leader:</h2>
 
 <div class="item">
   <div class="item__image">
-    <img class="image" src="/assets/images/group_members/somenath.png"/>
+    <img class="image" src="/assets/images/group_members/somenath.png" />
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -34,14 +17,14 @@ article_header:
   </div>
 </div>
 
-## Post-docs
+<h2 id="post-docs">Post-docs</h2>
 
-## PhD students
+<h2 id="phd-students">PhD students</h2>
 
 <div class="item">
   <div class="card">
     <div class="card__image">
-        <img class="image" src="/assets/images/group_members/camillo.jpeg"/>
+        <img class="image" src="/assets/images/group_members/camillo.jpeg" />
     </div>
 </div>
   <div class="item__content">
@@ -54,10 +37,10 @@ article_header:
     </div>
   </div>
 </div>
-<br>
+<p><br /></p>
 <div class="item">
   <div class="item__image">
-    <img class="image" src="/assets/images/group_members/camillo.jpeg"/>
+    <img class="image" src="/assets/images/group_members/camillo.jpeg" />
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -69,10 +52,10 @@ article_header:
     </div>
   </div>
 </div>
-<br>
+<p><br /></p>
 <div class="item">
   <div class="item__image">
-    <img class="image" src="/assets/images/group_members/charlie.jpeg"/>
+    <img class="image" src="/assets/images/group_members/charlie.jpeg" />
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -85,6 +68,7 @@ article_header:
   </div>
 </div>
 
-## Master's students
+<h2 id="masters-students">Master’s students</h2>
 
-# Alumni
+<h1 id="alumni">Alumni</h1>
+:ET

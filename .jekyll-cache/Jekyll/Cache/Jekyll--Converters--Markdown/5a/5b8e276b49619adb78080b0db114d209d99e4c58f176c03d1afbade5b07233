@@ -1,0 +1,38 @@
+I"C<h1 id="current-members">Current Members</h1>
+
+<h2 id="group-leader">Group Leader:</h2>
+
+<div class="card">
+  <div class="card__image">
+    <img class="image" src="/assets/images/group_members/somenath.png" />
+  </div>
+  <div class="card__content">
+    <div class="overlay">
+      <h4>Dr Somenath Bakshi</h4>
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card__image">
+    <img class="image" src="/assets/images/group_members/somenath.png" />
+    <div class="overlay">
+      <p>Dr Somenath Bakshi</p>
+    </div>
+  </div>
+</div>
+
+<h2 id="post-docs">Post-docs</h2>
+
+<h2 id="phd-students">PhD students</h2>
+
+<h3 id="georgeos-hardo">Georgeos Hardo</h3>
+
+<h3 id="camillo-moschner">Camillo Moschner</h3>
+
+<h3 id="charlie-wedd">Charlie Wedd</h3>
+
+<h2 id="masters-students">Master’s students</h2>
+
+<h1 id="alumni">Alumni</h1>
+:ET
