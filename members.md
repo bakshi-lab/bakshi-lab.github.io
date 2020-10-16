@@ -35,7 +35,7 @@ article_header:
     hoverColor: false,
     markerStyle: {
       initial: {
-        fill: '#ff0000',
+        fill: '##00FF00',
         stroke: '#383f47'
       }
     },
